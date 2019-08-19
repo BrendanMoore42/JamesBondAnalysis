@@ -1,2 +1,6 @@
 venv1/
 venv/*
+Masks/*
+WCs/*
+Subtitles/*
+*.csv
